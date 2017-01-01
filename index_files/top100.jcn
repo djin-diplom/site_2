@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html>
+<head>
+  <title>Comodo Secure DNS</title>
+  <link rel="stylesheet" href="/static/template.css" type="text/css" />
+  <META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
+  <META HTTP-EQUIV="PRAGMA" CONTENT="NO-CACHE">
+</head>
+<body>
+  <div class="banner"><img src="/static/comodo_banner.gif" width=906 height=81/></div>
+  <div id="wrapper">
+    <div class="messagebox">
+      <h1>Warning: Unsafe Website Blocked!</h1>
+      <h2>counter.rambler.ru</h2>
+      <p>This website has been blocked temporarily because of the following reason(s):</p>
+      <ul><li>Mobile, Hacking, Operating System</li></ul>
+      <p> <a href="http://securedns.dnsbycomodo.com/od/feedback/counter.rambler.ru/">Report Domain Feedback</a>.</p>
+      <a href="javascript:history.go(-1);"><img src="/static/back_button.png" border=0 id=back/></a><br/><br/>
+      <a href="http://securedns.dnsbycomodo.com/od/allow/counter.rambler.ru/"><img src="/static/continue_button.png" border=0 id=continue/></a>
+    </div>
+    <div class=clear>&nbsp;</div>
+    <div id=footer><p>&copy; Comodo Solutions, Inc. 2011. All rights reserved.</p></div>
+  </div>
+</body></html>
