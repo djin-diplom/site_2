@@ -107,11 +107,9 @@ require("header.php");
                 }
                 include("win.php");
             }
-
             ?>
         </div>
-        </section>
-        </div>
+
         </div>
 
         <?php
