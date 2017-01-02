@@ -161,7 +161,7 @@ $path_img = $site_url."vivadiplomfirstallemail/";
 					<tbody><tr>
 						<td style="padding:15px 25px">
 							<a href="<?php echo $site_url; ?>" style="text-decoration:none" target="_blank" data-saferedirecturl="<?php echo $site_url; ?>">
-								<img style="margin-bottom:22px" src="<?php echo $path_img; ?>index_files/1_logo.png" alt="<?php echo $site_name; ?>" class="CToWUd">
+								<img style="margin-bottom:22px" src="<?php echo $path_img; ?>index_files/logo.jpg" alt="<?php echo $site_name; ?>" class="CToWUd">
 							</a>
 						</td>
 						<td style="padding-right:30px">

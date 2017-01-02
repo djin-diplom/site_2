@@ -9,7 +9,7 @@
                 <span class="care-label">Написать нам письмо</span>
             </a>
             <a href="<?php echo $site_url;?>" class="logo-link" title="Вернуться на сайт">
-                <img id="logo" src="./564395_files/1.png" width="120"; alt="Лого">
+                <img id="logo" src="./564395_files/logo.jpg" width="120"; alt="Лого">
             </a>
             <div class="b-balance-root ">
                 <script type="text/javascript">$(function(){ if( $.areas.root.root.balance.balance != null ){ new $.areas.root.root.balance.balance({}) } else { new $.areas.root.root.balance({}) } });</script>
