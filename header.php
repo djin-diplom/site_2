@@ -50,16 +50,18 @@
         <tr>
             <td class="main_menu" colspan="2">
                 <div class="block_menu"><a href="index.php">Главная</a></div>
-                <div class="block_menu"><a href="special.php">Специальности</a></div>
-                <div class="block_menu"><a href="price.php">Прайс</a></div>
+                <div class="block_menu"><a href="special.php">&nbsp;&nbsp;Специальности</a></div>
+                <div class="block_menu"><a href="price.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Прайс</a></div>
+                <div class="block_menu"><a href="consult.php">Отзывы</a></div>
                 <div class="block_menu_li"><a href="kak_zakaz.php">Как заказать</a>
                     <div class="vyp_men"><a href="kak_zakaz.php">Заказ-онлайн</a>
                         <a href="zak_ofice.php">Заказ в офисе</a>
                     </div>
                 </div>
-                <div class="block_menu"><a href="order.php">Форма заказа</a></div>
-                <div class="block_menu"><a href="pay.php">Способы оплаты</a></div>
-                <div class="block_menu"><a href="articles.php">&nbsp;&nbsp;&nbsp;&nbsp;Статьи</a></div>
+                <div class="block_menu"><a href="order.php">&nbsp;&nbsp;Форма заказа</a></div>
+                <div class="block_menu"><a href="pay.php">&nbsp;&nbsp;&nbsp;&nbsp;Оплата</a></div>
+                <div class="block_menu"><a href="dogovor.php">Оферта</a></div>
+                <div class="block_menu"><a href="articles.php">Статьи</a></div>
                 <div class="block_menu"><a href="contact.php">Контакты</a></div>
 
             </td>

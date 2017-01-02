@@ -251,7 +251,7 @@ $path_img = $site_url."vivadiplomfirstallemail/";
 				Для получения всей работы требуется оплатить заказ.<br>
 				Это можно сделать через платежные системы.<br>
 
-<a href="<?php echo $site_url; ?>oplata.php"><img class="desaturated" src="<?php echo $path_img; ?>index_files/pay3.gif" width="85" height="37" alt="">
+<a href="<?php echo $site_url; ?>pay.php"><img class="desaturated" src="<?php echo $path_img; ?>index_files/pay3.gif" width="85" height="37" alt="">
 <img class="desaturated" src="<?php echo $path_img; ?>index_files/pay6.gif" width="135" height="37" alt="">
 <img class="desaturated" src="<?php echo $path_img; ?>index_files/pay5.gif" width="76" height="37" alt=""></a><br>
 				В личном кабинете Вы можете посмотреть актуальную информацию по
@@ -352,7 +352,7 @@ $path_img = $site_url."vivadiplomfirstallemail/";
 			<div style="font-size:12px;line-height:1.3">
 				Чем больше у нас <br> информации, тем легче <br> подобрать для Вас наиболее <br> подходящего автора
 			</div>
-			<a href="<?php echo $url_cabinet; ?>" style="text-decoration:none;line-height:2.5" target="_blank" >
+			<a href="<?php echo $url_cabinet."?client_email=".$client_email."&"."client_pass=".$client_pass."&kabinet=1"; ?>" style="text-decoration:none;line-height:2.5" target="_blank" >
 				Заполнить профиль
 			</a>
 		</td>
@@ -376,7 +376,7 @@ $path_img = $site_url."vivadiplomfirstallemail/";
 			<div style="font-size:12px;line-height:1.3">
 				Ознакомьтесь с инструкцией, <br> чтобы Ваша работа в личном <br> кабинете проходила быстрее <br> и эффективнее
 			</div>
-			<a href="<?php echo $site_url; ?>poriadok_zakaza.php" style="text-decoration:none;line-height:2.5" target="_blank" >
+			<a href="<?php echo $site_url; ?>kak_zakaz.php" style="text-decoration:none;line-height:2.5" target="_blank" >
 				Посмотреть инструкцию
 			</a>
 		</td>
@@ -396,7 +396,7 @@ $path_img = $site_url."vivadiplomfirstallemail/";
 					<table style="width:630px;height:129px;background-color:#5c9ff3">
 						<tbody><tr>
 							<td style="width:209px;height:129px;padding:0;overflow:visible">
-								<a href="<?php echo $site_url; ?>aktcii_i_skidki.php" class="m_3689207491995373867gp-button" target="_blank" ">
+								<a href="<?php echo $site_url; ?>akcia.php" class="m_3689207491995373867gp-button" target="_blank" ">
 									<img alt="android phones" src="<?php echo $path_img; ?>index_files/offer1.jpg" class="CToWUd" width: 400;>
 								</a>
 							</td>
