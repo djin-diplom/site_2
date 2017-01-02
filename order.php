@@ -67,7 +67,7 @@ require("header.php");
 
 
 
-                    <input type='image' src='img/save_but.png' value='Сохранить'>
+                    <input type='image' src='img/save_but.png' value='Сохранить' name = "submit">
                 </form>
             </div>
 
