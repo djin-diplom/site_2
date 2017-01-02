@@ -161,7 +161,7 @@ $body_2 = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:
                       <td class="col" valign="top" style="padding-left:12px;padding-right:12px;padding-top:18px;padding-bottom:12px">
                         <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper">
                           <tr>
-                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/slider3.jpg" border="0" alt="aкция Три Цeны" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
+                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/antypl.png" border="0" alt="aкция Три Цeны" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
                           </tr>
                         </table>
                         <table border="0" cellpadding="0" cellspacing="0">
@@ -192,7 +192,7 @@ $body_2 = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:
                       <td class="col" valign="top" style="padding-left:12px;padding-right:12px;padding-top:18px;padding-bottom:12px">
                         <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper">
                           <tr>
-                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/slider4.jpg" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
+                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/logo.jpg" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
                           </tr>
                         </table>
                         <table border="0" cellpadding="0" cellspacing="0">
@@ -223,7 +223,7 @@ $body_2 = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:
                       <td class="col" valign="top" style="padding-left:12px;padding-right:12px;padding-top:18px;padding-bottom:12px">
                         <table border="0" cellpadding="0" cellspacing="0" class="img-wrapper">
                           <tr>
-                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/slider2.jpg" border="0" alt="Мы продaeм только yникaльныe рaботы по прaвилy Один Тeкcт В Одни Рyки" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
+                            <td style="padding-bottom:18px"><img src="'.$site_url.'/index_files/antypl.png" border="0" alt="Мы продaeм только yникaльныe рaботы по прaвилy Один Тeкcт В Одни Рyки" width="168" height="110" hspace="0" vspace="0" style="max-width:100%; " class="image"></td>
                           </tr>
                         </table>
                         <table border="0" cellpadding="0" cellspacing="0">

@@ -5,9 +5,7 @@ require("requisites.php");
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
-    <meta name="yandex-verification" content="7029e70eef9be9a1">
-
-    <meta name="google-site-verification" content="b-j1iX8EZDgy92Y_WqYavwp2V-3cV2Jw0fTh4U1ewdA">
+  
 
     <link rel="stylesheet" href="./index_files/tracker.css">
 
