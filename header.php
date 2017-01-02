@@ -58,7 +58,7 @@
                         <a href="zak_ofice.php">Заказ в офисе</a>
                     </div>
                 </div>
-                <div class="block_menu"><a href="order.php">&nbsp;&nbsp;Форма заказа</a></div>
+                <div class="block_menu"><a href="order.php">&nbsp;&nbsp;Заказать</a></div>
                 <div class="block_menu"><a href="pay.php">&nbsp;&nbsp;&nbsp;&nbsp;Оплата</a></div>
                 <div class="block_menu"><a href="dogovor.php">Оферта</a></div>
                 <div class="block_menu"><a href="articles.php">Статьи</a></div>
