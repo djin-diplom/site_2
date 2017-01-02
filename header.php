@@ -53,7 +53,7 @@
                 <div class="block_menu"><a href="special.php">&nbsp;&nbsp;Специальности</a></div>
                 <div class="block_menu"><a href="price.php">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Прайс</a></div>
                 <div class="block_menu"><a href="consult.php">Отзывы</a></div>
-                <div class="block_menu_li"><a href="kak_zakaz.php">Как заказать</a>
+                <div class="block_menu_li"><a href="kak_zakaz.php">Инструкции</a>
                     <div class="vyp_men"><a href="kak_zakaz.php">Заказ-онлайн</a>
                         <a href="zak_ofice.php">Заказ в офисе</a>
                     </div>
