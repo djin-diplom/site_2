@@ -30,9 +30,9 @@ $url_town_ufa = 'http://ufa.'.$main_name.'/';
     $email_11 = "ad@".$main_name;
     $email_12 = "publicity@".$main_name;
     $email3 = "info@".$main_name;
-    $adres = "г. Санкт-Петeрбург, Большая Пушкарская улица, <br>дом № 47, oф. 104-106";
-    $url_adres_yandex = "https://yandex.ru/maps/-/CZH3BMIJ";
-    $url_adres_yandex_frame = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZH3BMIJ\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
+    $adres = "г. Москва, Родионовская улица, <br>дом № 12, oф. 124";
+    $url_adres_yandex = "https://yandex.ru/maps/-/CZTCn2Lb";
+    $url_adres_yandex_frame = "<iframe src=\"https://api-maps.yandex.ru/frame/v1/-/CZTCn2Lb\" width=\"560\" height=\"400\" frameborder=\"0\"></iframe>";
     $url_oplata = "https://money.yandex.ru/to/410013671278550";
 
 $main_name_temp = $main_name;
