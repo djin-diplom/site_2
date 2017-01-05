@@ -145,7 +145,7 @@ $body_2 = '<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http:
                   <div class="title" style="font-family:Helvetica, Arial, sans-serif;font-size:18px;font-weight:600;color:#374550">'.$name.'! 
                   Учебный центр "<a href="'.$site_url.'">'.$site_name.'</a>"
                   выполнит заказ без заминок, бесплатно пришлет материалы по теме.<br>
-                  Закажите работу <a href="'.$site_url.'order.php" >тут</a> и получите ее часть без предоплаты!</div>
+                  Закажите работу <a href="'.$site_url.'order.php" >тут</a> и получите часть без предоплаты!</div>
                 </td>
               </tr>
               <tr>
