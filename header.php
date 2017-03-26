@@ -6,7 +6,7 @@
 
         <tr>
             <td class="left_head">
-                <div class="logo"><a href="<?php echo $site_url; ?>"><img src="./index_files/logo.jpg" ></a></div>
+                <div class="logo"><a href="<?php echo $site_url; ?>"><img src="./index_files/logo_2.png" ></a></div>
             </td>
             <td class="right_head">
                 <div class="head_phone"><img src="./index_files/head_phone.png"></div>
