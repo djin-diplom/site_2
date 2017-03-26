@@ -1,8 +1,8 @@
 <?php
 
 
-$main_name = "Studrabota.com";
-$email2 = "Studrabota.com@gmail.com";
+$main_name = "Vivastudent.ru";
+$email2 = "vivastudents.ru@gmail.com";
 $time_work = "c 8.00 до 19.00 по Москве без выходных";
 
 $url_town_piter = 'http://'.$main_name.'/';
