@@ -2,7 +2,8 @@
 session_start();
 require("requisites.php");
 ?>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="nYwj09iau7v7Ip_GwGkyoRskEb1IHPTjWfv-QUb9m2I" />
+<meta name="yandex-verification" content="e99ff685e800e477" />
 
 
   
